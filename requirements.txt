@@ -8,3 +8,4 @@ python-dotenv==1.1.0
 qdrant-client==1.14.2
 streamlit==1.45.1
 transformers==4.48.3
+sentence-transformers==2.7.0
